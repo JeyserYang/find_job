@@ -1,0 +1,33 @@
+let learn = "vim"
+
+yang
+
+(((hello world))
+
+const hello = function() {
+	console.log("Hello vim");
+	return true;
+}
+
+<div>
+	<h1>Header1</h1>
+	<p>para1</p>
+	<p>para2</p>
+</div>
+
+
+Id|Name|Cuteness
+01|Puppy|Very
+02|Kitten|Ok
+03|Bunny|Ok
+
+I am a sentence. I am another sentence because I end with a period. I am still a sentence when ending with an exclamation point! What about question mark? I am not quite a sentence because of the hyphen - and neither semicolon ; nor colon :
+
+There is an empty line above me.
+
+(define (fib n)
+  (cond ((= n 0) 0)
+        ((= n 1) 1)
+        (else
+          (+ (fib (- n 1)) (fib (- n 2)))
+        )))

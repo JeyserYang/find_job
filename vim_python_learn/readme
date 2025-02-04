@@ -1,0 +1,10 @@
+simple_python: 简单python示例
+
+	包含的知识点：
+		1. 变量与数据类型: int float list str 将字符串转换为float
+		2. if-else for
+		3. 函数与模块：自定义函数，以及导入自己的模块
+		4. 文件读写
+		5. 异常处理
+		math_utils.py: 自定义的模块
+		main.py：主程序
