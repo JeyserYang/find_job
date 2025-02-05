@@ -5,4 +5,3 @@ vim_python_learn: 使用python练习vim, 同时练习python和vim操作
 
 
 
-print(f"{num1} + {num2} = {num1 + num2}")
